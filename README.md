@@ -2,34 +2,41 @@ Its a gasket moumted 65% layout keyboard which you can customise by your own.
 -----------------------------------------------------------------------------------------
 **PCB**
 
+<img width="1577" height="882" alt="Screenshot 2026-01-30 204910" src="https://github.com/user-attachments/assets/a647b9c3-12d1-4ce5-a1bb-ec64c2f43677" />
+
+<img width="1895" height="986" alt="Screenshot 2026-01-30 205807" src="https://github.com/user-attachments/assets/1ba10d3b-c5a0-48bc-b753-2aee3dd51809" />
+
+<img width="1855" height="935" alt="Screenshot 2026-01-30 205816" src="https://github.com/user-attachments/assets/05a3012e-16ce-4454-8f60-075074796d71" />
+
 -----------------------------------------------------------------------------------------
 
-<img width="1904" height="1010" alt="Screenshot 2026-01-30 000146" src="https://github.com/user-attachments/assets/2e8a0f97-52a7-466d-b823-8c8bb9c6f307" />
-
-<img width="1912" height="1024" alt="Screenshot 2025-12-18 214848" src="https://github.com/user-attachments/assets/0196bfcb-41dd-4ea9-ad38-923b762d99dc" />
-
-<img width="1893" height="966" alt="Screenshot 2026-01-30 004036" src="https://github.com/user-attachments/assets/2b82ce90-3f91-4e48-83bc-d81a5d31c8c8" />
-
-<img width="1910" height="980" alt="Screenshot 2026-01-30 004046" src="https://github.com/user-attachments/assets/bdff439b-31f7-4559-bcee-efe2246d9ba7" />
 
 **CAD**
 
 -----------------------------------------------------------------------------------------
 
-<img width="1913" height="872" alt="image" src="https://github.com/user-attachments/assets/2e39ed44-cbc0-440d-a365-0241a38ecb14" />
+<img width="1890" height="864" alt="Screenshot 2026-01-30 004223" src="https://github.com/user-attachments/assets/8c9531fb-98cb-4b32-9fcd-ca4bf330320f" />
 
-<img width="1890" height="864" alt="Screenshot 2026-01-30 004223" src="https://github.com/user-attachments/assets/220395c4-7331-4946-93b0-d5b118c8ce15" />
+
+<img width="1913" height="872" alt="Screenshot 2026-01-30 004243" src="https://github.com/user-attachments/assets/3ede41cb-88c7-4830-875e-ee00febbce40" />
+
+-----------------------------------------------------------------------------------------
+
 
 **ASSEMBLY**
 
 -----------------------------------------------------------------------------------------
 
-<img width="1883" height="998" alt="Screenshot 2026-01-30 002821" src="https://github.com/user-attachments/assets/6ae09812-fbca-4eb1-85fb-cfab1e9ac563" />
+<img width="1883" height="998" alt="Screenshot 2026-01-30 002821" src="https://github.com/user-attachments/assets/7d8fd6a8-69af-42d0-86f0-803261e2ae1b" />
 
-<img width="1885" height="1010" alt="Screenshot 2026-01-30 002907" src="https://github.com/user-attachments/assets/befb4fbd-ebab-41e8-8a91-eb2d28fc0ed7" />
+<img width="1885" height="1010" alt="Screenshot 2026-01-30 002907" src="https://github.com/user-attachments/assets/b6f77980-5477-4466-a3b6-711291d8c33b" />
+
+-----------------------------------------------------------------------------------------
+
 
 **JLC PCB**
 
 -----------------------------------------------------------------------------------------
 
-<img width="1903" height="988" alt="Screenshot 2026-01-30 000943" src="https://github.com/user-attachments/assets/19b37916-e0d7-42e5-8e5f-d29985151708" />
+<img width="1888" height="946" alt="Screenshot 2026-01-30 211146" src="https://github.com/user-attachments/assets/d1410b27-e24d-4e99-b103-4755295d2f4b" />
+
