@@ -8,7 +8,7 @@
 		(title "Mikeneko 65 V1")
 		(date "2020-08-01")
 		(rev "1")
-		(comment 1 "Copyright © 2020 kkatano")
+		(comment 1 
 		(comment 2 "MIT License")
 	)
 	(lib_symbols
@@ -7374,3 +7374,4 @@
 	)
 	(embedded_fonts no)
 )
+
